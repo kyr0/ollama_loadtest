@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# load_test_ollama_verbose.py
+# llama_test.py
 #
 # Load test stressing Ollama's KV-cache with logarithmic scaling.
 # Prints one concise, information-rich line per request.
